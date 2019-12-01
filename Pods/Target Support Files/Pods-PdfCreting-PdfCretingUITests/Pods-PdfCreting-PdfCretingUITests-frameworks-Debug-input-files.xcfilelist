@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PdfCreting-PdfCretingUITests/Pods-PdfCreting-PdfCretingUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PDFGenerator/PDFGenerator.framework
+${BUILT_PRODUCTS_DIR}/QRCoder/QRCoder.framework

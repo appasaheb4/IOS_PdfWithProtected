@@ -1,0 +1,20 @@
+PODS:
+  - PDFGenerator (3.1.0)
+  - QRCoder (1.1.0)
+
+DEPENDENCIES:
+  - PDFGenerator
+  - QRCoder
+
+SPEC REPOS:
+  trunk:
+    - PDFGenerator
+    - QRCoder
+
+SPEC CHECKSUMS:
+  PDFGenerator: 17d6bc525db0a3fcd156fbf00f9d1b8d5cc75d1e
+  QRCoder: cbd2bee531cc86d286df7942334cfed94c803ae4
+
+PODFILE CHECKSUM: 212aa37a7c66c98444fd10623c37b84675e446a0
+
+COCOAPODS: 1.8.4

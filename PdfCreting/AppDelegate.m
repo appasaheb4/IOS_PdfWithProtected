@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "PdfCre.h"
 
 @interface AppDelegate ()
 
@@ -17,6 +18,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    PdfCre *pdf = [[PdfCre alloc]init];
+    [pdf createPDF];
     return YES;
 }
 
